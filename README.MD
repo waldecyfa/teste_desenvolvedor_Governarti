@@ -19,14 +19,10 @@ TESTE DESENVOLVEDOR - GOVERNARTI
 <!--te-->
 
 
-### Features
+### Passo a Passo
 
-- [x] Cadastro de Clientes com verbo POST /drivers
 - [x] Busca de Clientes pagindo com verbo GET /drivers
 - [x] Busca de Clientes por id com verbo GET /drivers/id
-- [x] Update de Clientes por id com verbo PUT /drivers/id
-- [x] Deletar Clientes por id com verbo DELETE /drivers/id
-
 ---
 
 ### Tecnologias
@@ -70,7 +66,7 @@ $ git clone <https://github.com/waldecyfa/teste_desenvolvedor_Governarti.git>
 
 ---
 
-###Exemplo JSON body POST
+###Exemplo JSON body POST Endpoint
 #### Enviar no caminho: http://localhost:8087/drivers/winning
 ```bash
 {
@@ -81,7 +77,7 @@ $ git clone <https://github.com/waldecyfa/teste_desenvolvedor_Governarti.git>
 }
 ```
 
-###Exemplo JSON body PUT
+###Exemplo JSON body GET Endpoint
 #### Enviar no caminho: http://localhost:8087/drivers/winning
 ```bash
 {
@@ -93,8 +89,8 @@ $ git clone <https://github.com/waldecyfa/teste_desenvolvedor_Governarti.git>
 ```
 
 
-###Exemplo JSON Saída GET by ID
-#### Enviar no caminho: http://localhost:8087/drivers/4
+###Exemplo JSON Saída GET by ID Endpoint
+#### Enviar no caminho: http://localhost:8087/drivers/winning/4
 ```bash
 {
   "id": 4,
@@ -105,7 +101,7 @@ $ git clone <https://github.com/waldecyfa/teste_desenvolvedor_Governarti.git>
 }
 ```
 
-###Exemplo JSON Saída GET all pageable
+###Exemplo JSON Saída GET all pageable Endpoint
 #### Enviar no caminho: http://localhost:8087/drivers?page=0&linesPerPage=6&direction=ASC&orderBy=name
 ```bash
 {
