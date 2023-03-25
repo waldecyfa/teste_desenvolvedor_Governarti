@@ -7,7 +7,7 @@ TESTE DESENVOLVEDOR - GOVERNARTI
 
 <!--ts-->
 
-* [Features](#features)
+* [Passo a Passo](#features)
 * [Tecnologias](#tecnologias)
 * [Pre-requisitos](#prerequisitos)
 * [Baixar e executar](#baixar)
