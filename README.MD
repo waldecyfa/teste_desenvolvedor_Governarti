@@ -6,7 +6,7 @@ TESTE DESENVOLVEDOR - GOVERNARTI
 </h4>
 
 <!--ts-->
-* [Autor](#autor)
+
 * [Features](#features)
 * [Tecnologias](#tecnologias)
 * [Pre-requisitos](#prerequisitos)
@@ -15,7 +15,7 @@ TESTE DESENVOLVEDOR - GOVERNARTI
     * [POST](#exemplo-json-body-post)
     * [PUT](#exemplo-json-body-put)
     * [GET by ID](#exemplo-json-sada-get-by-id)
-    * [GET all pageable](#exemplo-json-sada-get-all-pageable)
+   
 <!--te-->
 
 
