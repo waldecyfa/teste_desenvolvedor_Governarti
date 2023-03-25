@@ -54,7 +54,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/MarceloMachadoxD/APICrudClientesSpringBootJPA.git>
+$ git clone <https://github.com/waldecyfa/teste_desenvolvedor_Governarti.git>
 
 # Importe o projeto na sua IDE
 
@@ -64,7 +64,7 @@ $ git clone <https://github.com/MarceloMachadoxD/APICrudClientesSpringBootJPA.gi
 
 #caso queira alterar o seed do banco de dados altere os dados no arquivo resoruces/data.sql
 
-# O servidor inciará na porta:8080 - abra o Insominia/Postman e execute os verbos HTML na url <http://localhost:8080/drivers>
+# O servidor inciará na porta:8087 - abra o Insominia/Postman e execute os verbos HTML na url <http://localhost:8087/drivers>
 
 ```
 
