@@ -1,0 +1,14 @@
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Hamilton', 'British',  TIMESTAMP WITH TIME ZONE '1985-01-07T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Heildfeld', 'German',  TIMESTAMP WITH TIME ZONE '1977-05-10T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Rosberg', 'German',  TIMESTAMP WITH TIME ZONE '1985-06-27T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Kovailainem', 'Finish',  TIMESTAMP WITH TIME ZONE '1981-10-19T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Alonso', 'Spaninh',  TIMESTAMP WITH TIME ZONE '1981-07-29T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Nakajima', 'Japan',  TIMESTAMP WITH TIME ZONE '1985-01-11T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Bourdais', 'French', TIMESTAMP WITH TIME ZONE '1979-02-28T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Glock', 'German',  TIMESTAMP WITH TIME ZONE '1982-03-18T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Sato', 'Japan',  TIMESTAMP WITH TIME ZONE '1977-01-28T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Piquet_Jr', 'Brazilian',  TIMESTAMP WITH TIME ZONE '1985-07-25T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Massa', 'Brasilian', TIMESTAMP WITH TIME ZONE '1981-04-25T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Coultrad', 'British',  TIMESTAMP WITH TIME ZONE '1971-03-27T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Trulli', 'Italian',  TIMESTAMP WITH TIME ZONE '1974-07-13T20:50:07.12345Z');
+INSERT INTO tb_driver (name, nationality, birth_date) VALUES ('Sutil', 'German', TIMESTAMP WITH TIME ZONE '1983-08-27T20:50:07.12345Z');
